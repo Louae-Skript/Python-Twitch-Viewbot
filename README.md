@@ -9,3 +9,4 @@ Twitch Viewer Bot (Python + proxies)
 	<pre><p>	~\viewerbot>python threads_viewer.py your_channel_name max_nb_of_threads</p></pre>
 <b>Exemple: </b>
 	<pre><p>	~\viewerbot><b>python threads_viewer.py RANDOMCHANNEL 1000</b></p></pre>
+[![Run on Repl.it](https://repl.it/badge/github/5R33CH4/Python-Twitch-Viewbot)](https://repl.it/github/5R33CH4/Python-Twitch-Viewbot)
